@@ -1,0 +1,16 @@
+{
+  "name": "73t7r15-666ax",
+  "version": "0.1.0",
+  "description": "73T7R15-666AX — clean-room falling-blocks core (deterministic).",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "vitest": "^2.0.0"
+  },
+  "license": "MIT"
+}
